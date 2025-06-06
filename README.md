@@ -1,2 +1,2 @@
 My first readme
-Uodate of the 1st readme
+Update of the 1st readme
